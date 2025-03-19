@@ -8,19 +8,18 @@ This project involved transforming raw student registration data using Power Que
 ## Data Transformation Steps
 ### 1. Checking and Clearing Blanks
 - Identified and removed blank cells in crucial columns.
-- Replaced null values with appropriate placeholders where necessary.
 
 ### 2. Checking and Removing Duplicates
 - Scanned the dataset for duplicate entries.
 - Removed exact duplicates to ensure data integrity.
 
 ### 3. Creating Unique ID with Name
-- Generated a unique ID for each student by combining their name and a numerical identifier.
+- Generated a unique ID for each student by combining their first name and first letter of second name together.
 - Ensured uniqueness to prevent data inconsistencies.
 
 ### 4. Separating Registration Date into New Columns
 - Extracted the registration date column.
-- Created a new column to categorize registrations into February and April terms based on the date.
+- Created a new column **Terms** to categorize registrations into February and April terms based on the date.
 
 ### 5. Creating a New Payment Status Column
 - Defined the payment status based on the amount paid:
@@ -31,7 +30,7 @@ This project involved transforming raw student registration data using Power Que
 ## Visualizations Created
 1. **Bar Chart:** Displays the number of student registrations per course.
 2. **Donut Chart:** Represents the distribution of payment statuses (Full Paid, Partial Payment, No Payment).
-3. **Line Chart:** Shows the trend of student registrations over time.
+3. **Line Chart:** Shows the trend of student registrations over the month of december.
 
 ## Conclusion
 By leveraging Power Query Editor, the dataset was successfully cleaned, structured, and transformed for accurate reporting. The final visualizations provide insights into student registration trends and payment distribution, facilitating better decision-making.
