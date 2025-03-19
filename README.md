@@ -6,6 +6,10 @@ This project involved transforming raw student registration data using Power Que
 ![image alt](https://github.com/bbudha77/Power-Query-Editor-Project/blob/3e95b1434bf9977a75abc9b7c462ca1f82f78232/Screenshot%202025-03-19%20204939.png)
 
 ## Data Transformation Steps
+
+
+![image alt]()
+
 ### 1. Checking and Clearing Blanks
 - Identified and removed blank cells in crucial columns.
 
