@@ -3,7 +3,7 @@
 ## Overview
 This project involved transforming raw student registration data using Power Query Editor in Power BI. The dataset was cleaned, managed, and enhanced to ensure accuracy and meaningful analysis. After transformation, three visualizations were created to represent student registrations and payment status.
 
-https://github.com/bbudha77/Power-Query-Editor-Project/blob/3e95b1434bf9977a75abc9b7c462ca1f82f78232/Screenshot%202025-03-19%20204939.png
+![image alt](https://github.com/bbudha77/Power-Query-Editor-Project/blob/3e95b1434bf9977a75abc9b7c462ca1f82f78232/Screenshot%202025-03-19%20204939.png)
 
 ## Data Transformation Steps
 ### 1. Checking and Clearing Blanks
